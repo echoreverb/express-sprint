@@ -5,7 +5,7 @@
 
 ## Ссылка на скачивание
 
-> [v0.0.1](https://github.com/echoreverb/express-sprint)
+> [v0.0.2](https://github.com/echoreverb/express-sprint)
 
 
 ## Установка
