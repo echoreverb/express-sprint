@@ -1,13 +1,13 @@
 {
   "name": "sprint-12",
   "version": "1.0.0",
-  "description": "",
+  "description": "It's the 12th sprint of Yandex.Praktikum web-development course",
   "main": "app.js",
   "scripts": {
     "start": "node app",
     "dev": "nodemon app"
   },
-  "author": "",
+  "author": "Alexey Dikarev and Yandex.Praktikum",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.2.0",
